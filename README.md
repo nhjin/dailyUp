@@ -22,8 +22,7 @@
 ## **START💥**
 
 이전 프로젝트에 이어서 작업합니다. 제가 지난 번에 환경 설정한 프로젝트에 만들어도 됩니다. home.jsp 파일을 수정해서 하면 됩니다. 구성 방식을 먼저 보여드리겠습니다.
-
-[##_Image|kage@brlCkt/btrqTZOB1UH/QnzDJsVBqlkQAwnb6ZdWtK/img.png|CDM|1.3|{"originWidth":387,"originHeight":59,"style":"alignCenter"}_##]
+![image](https://user-images.githubusercontent.com/84615033/156907169-02c71581-8c2c-4314-9a3e-eddc8e4d2173.png)
 
 로컬호스트로 접속합니다. 
 
